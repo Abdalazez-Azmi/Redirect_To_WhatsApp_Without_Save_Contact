@@ -1,7 +1,7 @@
 let err= document.getElementById("err");
 let f_inp= document.getElementById("f_inp");
 let v_inp = f_inp.value;
-let url ="https://wa.me/"
+let url ="https://whatsapp://send?phone="
 let num ;
 
 
