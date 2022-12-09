@@ -1,5 +1,5 @@
 body{
-    background-color:rgba(0, 0, 0, 0.8) ;
+    background-color:#1a1919 ;
 }
 
 .f_btn{
@@ -8,22 +8,29 @@ body{
     margin-top: 5px;
     border-radius: 7px;
     padding: 6px;
-    width: 80%;
+    width: 95%;
     text-decoration: none;
     font-size: 18px;
 
 
 }
+
+.author{
+    background-color: white;
+    border-radius: 7px;
+    padding: 5px;
+    width: 195px;
+}
 .f_inp{
     border-radius: 5px;
-    width: 75%;
+    width: 90%;
     height: 35px;
     font-size: 20px;
     text-align: center;
 }
 
 .cont{
-    margin-top: 20%;
+    margin-top: 70%;
 
 }
 
