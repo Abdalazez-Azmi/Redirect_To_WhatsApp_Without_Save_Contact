@@ -5,10 +5,9 @@ let num  ;
 
 
 const reffer=()=>{
-    num = f_inp.value;
-if (f_inp.value.length === 10 && (f_inp.value[0] === "0"))  {
-    f_inp.value= f_inp.value.substring(1)
-    console.log(f_inp.value[0].substring(1))
+    if (f_inp.value.length === 10 && (f_inp.value[0] === "0"))  {
+        f_inp.value= f_inp.value.substring(1)
+        num = f_inp.value;
     location.href=url+num
 
 }else{
