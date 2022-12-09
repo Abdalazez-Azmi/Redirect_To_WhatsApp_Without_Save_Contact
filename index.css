@@ -1,0 +1,35 @@
+body{
+    background-color:rgba(0, 0, 0, 0.8) ;
+}
+
+.f_btn{
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+    border-radius: 7px;
+    padding: 6px;
+    width: 80%;
+    text-decoration: none;
+    font-size: 18px;
+
+
+}
+.f_inp{
+    border-radius: 5px;
+    width: 75%;
+    height: 35px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.cont{
+    margin-top: 20%;
+
+}
+
+.err{
+    font-size: 35px;
+    color: white;
+}
+
+ 
