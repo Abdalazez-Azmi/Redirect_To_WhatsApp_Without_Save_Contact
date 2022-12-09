@@ -7,7 +7,7 @@ let num ;
 
 const reffer=()=>{
     num = f_inp.value;
-if (f_inp.value.length <= 10 ) {
+if (f_inp.value.length === 10 ) {
     err.innerText=""
     location.href=url+num
 
