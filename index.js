@@ -12,7 +12,7 @@ if (f_inp.value.length <= 10 ) {
     location.href=url+num
 
 }else{
-    err.innerHTML="Sorry The Number is not correct please re-check"
+   alert("Sorry The Number is not correct please re-check")
     console.log(f_inp.value.length)
 }
 }
