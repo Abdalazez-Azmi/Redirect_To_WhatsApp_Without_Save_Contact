@@ -5,9 +5,8 @@ let num  ;
 
 
 const reffer=()=>{
-    if (f_inp.value.length === 10 && (f_inp.value[0] === "0"))  {
 
-   alert("Sorry The Number is not correct please re-check")
+   alert("Sorry,your payment dosent renew,please try again later .")
     console.log(f_inp.value.length)
-}
+
 }
